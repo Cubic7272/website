@@ -1,5 +1,7 @@
 @font-face {
     font-family: 'Cafe Ohsquare air for 001';
     src:
-        url(../master/Cafe24Ohsquareair_Editedfor001.woff2)  format('woff2');
+        url('https://cubic7272.github.io/website/fonts/Cafe24Ohsquareair_Editedfor001.woff2')  format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
